@@ -13,3 +13,14 @@ The objective of this project is to analyze and visualize financial and sales da
 - How does yearly sales and profit performance compare over time?
 
 Dashboard interaction <a href="https://github.com/RaviSinghIn01/excel-financial-dashboard/blob/main/Screen%20Shot%202026-05-15%20at%208.51.48%20PM.png">View dashboard</a>
+
+Organised data <a href="https://github.com/RaviSinghIn01/excel-financial-dashboard/blob/main/Organised.xlsx">View data</a>
+
+## Process
+- Cleaned and formatted the dataset in Excel.
+- Created calculated columns for Profit and Profit Margin.
+- Built Pivot Tables to analyze sales, profit, discounts, segments, and yearly trends.
+- Created charts and visualizations for better insights.
+- Added slicers to make the dashboard interactive and user-friendly.
+
+## Dashboard

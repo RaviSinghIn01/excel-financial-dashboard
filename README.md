@@ -11,4 +11,5 @@ The objective of this project is to analyze and visualize financial and sales da
 - How do discount bands impact sales and profit?
 - What are the monthly sales trends and seasonal patterns?
 - How does yearly sales and profit performance compare over time?
+
 Dashboard interaction <a href="https://github.com/RaviSinghIn01/excel-financial-dashboard/blob/main/Screen%20Shot%202026-05-15%20at%208.51.48%20PM.png">View dashboard</a>
